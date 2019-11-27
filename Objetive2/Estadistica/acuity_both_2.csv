@@ -1,0 +1,937 @@
+Subject;Test;Banda;Power
+S2;Resting Open;Delta Oz;0.022551102
+S3;Resting Open;Delta Oz;0.038131849
+S5;Resting Open;Delta Oz;0.00726165
+S6;Resting Open;Delta Oz;0.008174438
+S7;Resting Open;Delta Oz;0.02196463
+S10;Resting Open;Delta Oz;0.019860365
+S11;Resting Open;Delta Oz;0.008332078
+S13;Resting Open;Delta Oz;0.020206311
+S14;Resting Open;Delta Oz;0.024277496
+S16;Resting Open;Delta Oz;0.036566199
+S18;Resting Open;Delta Oz;0.02393008
+S19;Resting Open;Delta Oz;0.016302474
+S20;Resting Open;Delta Oz;0.053466347
+S22;Resting Open;Delta Oz;0.028738121
+S24;Resting Open;Delta Oz;0.01720517
+S25;Resting Open;Delta Oz;0.009942864
+S26;Resting Open;Delta Oz;0.009385765
+S27;Resting Open;Delta Oz;0.005270254
+S28;Resting Open;Delta Oz;0.025708214
+S29;Resting Open;Delta Oz;0.005182245
+S30;Resting Open;Delta Oz;0.004012352
+S31;Resting Open;Delta Oz;0.015583284
+S32;Resting Open;Delta Oz;0.006019025
+S33;Resting Open;Delta Oz;0.004994765
+S34;Resting Open;Delta Oz;0.002034627
+S35;Resting Open;Delta Oz;0.013221543
+S2;Resting;Delta Oz;0.00708809
+S3;Resting;Delta Oz;0.009603331
+S5;Resting;Delta Oz;0.004737521
+S6;Resting;Delta Oz;0.004962861
+S7;Resting;Delta Oz;0.013581522
+S10;Resting;Delta Oz;0.00284779
+S11;Resting;Delta Oz;0.003175007
+S13;Resting;Delta Oz;0.018332777
+S14;Resting;Delta Oz;0.008959638
+S16;Resting;Delta Oz;0.010626859
+S18;Resting;Delta Oz;0.013124302
+S19;Resting;Delta Oz;0.006830205
+S20;Resting;Delta Oz;0.008402219
+S22;Resting;Delta Oz;0.013751014
+S24;Resting;Delta Oz;0.004780743
+S25;Resting;Delta Oz;0.004165456
+S26;Resting;Delta Oz;0.005440595
+S27;Resting;Delta Oz;0.001662668
+S28;Resting;Delta Oz;0.008127316
+S29;Resting;Delta Oz;0.001488676
+S30;Resting;Delta Oz;0.004899939
+S31;Resting;Delta Oz;0.004907055
+S32;Resting;Delta Oz;0.00196603
+S33;Resting;Delta Oz;0.002079968
+S34;Resting;Delta Oz;0.001942137
+S35;Resting;Delta Oz;0.012058261
+S2;Acuity;Delta Oz;0.014724969
+S3;Acuity;Delta Oz;0.038339899
+S5;Acuity;Delta Oz;0.014992474
+S6;Acuity;Delta Oz;0.014043116
+S7;Acuity;Delta Oz;0.017407212
+S10;Acuity;Delta Oz;0.016845279
+S11;Acuity;Delta Oz;0.014024686
+S13;Acuity;Delta Oz;0.027953411
+S14;Acuity;Delta Oz;0.01939369
+S16;Acuity;Delta Oz;0.015501576
+S18;Acuity;Delta Oz;0.010895379
+S19;Acuity;Delta Oz;0.018144009
+S20;Acuity;Delta Oz;0.021431233
+S22;Acuity;Delta Oz;0.02801826
+S24;Acuity;Delta Oz;0.012763761
+S25;Acuity;Delta Oz;0.011155154
+S26;Acuity;Delta Oz;0.007765243
+S27;Acuity;Delta Oz;0.004331257
+S28;Acuity;Delta Oz;0.019861087
+S29;Acuity;Delta Oz;0.016504727
+S30;Acuity;Delta Oz;0.005105951
+S31;Acuity;Delta Oz;0.010506396
+S32;Acuity;Delta Oz;0.00680803
+S33;Acuity;Delta Oz;0.007350398
+S34;Acuity;Delta Oz;0.005769929
+S35;Acuity;Delta Oz;0.006933547
+S2;Resting Open;Theta Oz;0.030489893
+S3;Resting Open;Theta Oz;0.023325233
+S5;Resting Open;Theta Oz;0.010035258
+S6;Resting Open;Theta Oz;0.014020481
+S7;Resting Open;Theta Oz;0.028882351
+S10;Resting Open;Theta Oz;0.019072914
+S11;Resting Open;Theta Oz;0.015296684
+S13;Resting Open;Theta Oz;0.026280847
+S14;Resting Open;Theta Oz;0.020634885
+S16;Resting Open;Theta Oz;0.03409309
+S18;Resting Open;Theta Oz;0.03406522
+S19;Resting Open;Theta Oz;0.024526574
+S20;Resting Open;Theta Oz;0.033812376
+S22;Resting Open;Theta Oz;0.026284598
+S24;Resting Open;Theta Oz;0.023636574
+S25;Resting Open;Theta Oz;0.011478811
+S26;Resting Open;Theta Oz;0.019993142
+S27;Resting Open;Theta Oz;0.012860291
+S28;Resting Open;Theta Oz;0.022319953
+S29;Resting Open;Theta Oz;0.006176174
+S30;Resting Open;Theta Oz;0.008826142
+S31;Resting Open;Theta Oz;0.010392531
+S32;Resting Open;Theta Oz;0.011787764
+S33;Resting Open;Theta Oz;0.005841061
+S34;Resting Open;Theta Oz;0.003446588
+S35;Resting Open;Theta Oz;0.009356044
+S2;Resting;Theta Oz;0.016946605
+S3;Resting;Theta Oz;0.01049631
+S5;Resting;Theta Oz;0.006531984
+S6;Resting;Theta Oz;0.00855661
+S7;Resting;Theta Oz;0.017591141
+S10;Resting;Theta Oz;0.006527636
+S11;Resting;Theta Oz;0.003843311
+S13;Resting;Theta Oz;0.019856003
+S14;Resting;Theta Oz;0.01037674
+S16;Resting;Theta Oz;0.012927934
+S18;Resting;Theta Oz;0.023296114
+S19;Resting;Theta Oz;0.015235015
+S20;Resting;Theta Oz;0.008893274
+S22;Resting;Theta Oz;0.015765105
+S24;Resting;Theta Oz;0.004239337
+S25;Resting;Theta Oz;0.005867411
+S26;Resting;Theta Oz;0.013061512
+S27;Resting;Theta Oz;0.002680347
+S28;Resting;Theta Oz;0.007008487
+S29;Resting;Theta Oz;0.00197371
+S30;Resting;Theta Oz;0.007512492
+S31;Resting;Theta Oz;0.008437596
+S32;Resting;Theta Oz;0.004579393
+S33;Resting;Theta Oz;0.003774471
+S34;Resting;Theta Oz;0.003136529
+S35;Resting;Theta Oz;0.010299634
+S2;Acuity;Theta Oz;0.033001323
+S3;Acuity;Theta Oz;0.022541294
+S5;Acuity;Theta Oz;0.02476401
+S6;Acuity;Theta Oz;0.021666364
+S7;Acuity;Theta Oz;0.032599234
+S10;Acuity;Theta Oz;0.031893335
+S11;Acuity;Theta Oz;0.033489083
+S13;Acuity;Theta Oz;0.041258681
+S14;Acuity;Theta Oz;0.018565468
+S16;Acuity;Theta Oz;0.026577176
+S18;Acuity;Theta Oz;0.030391605
+S19;Acuity;Theta Oz;0.049234771
+S20;Acuity;Theta Oz;0.039006256
+S22;Acuity;Theta Oz;0.043796062
+S24;Acuity;Theta Oz;0.020064267
+S25;Acuity;Theta Oz;0.01546554
+S26;Acuity;Theta Oz;0.02501099
+S27;Acuity;Theta Oz;0.015593043
+S28;Acuity;Theta Oz;0.023399389
+S29;Acuity;Theta Oz;0.026388014
+S30;Acuity;Theta Oz;0.011051485
+S31;Acuity;Theta Oz;0.022730762
+S32;Acuity;Theta Oz;0.017358642
+S33;Acuity;Theta Oz;0.011089097
+S34;Acuity;Theta Oz;0.012498595
+S35;Acuity;Theta Oz;0.016450593
+S2;Resting Open;Alpha Oz;0.025274798
+S3;Resting Open;Alpha Oz;0.012144385
+S5;Resting Open;Alpha Oz;0.029445792
+S6;Resting Open;Alpha Oz;0.033499066
+S7;Resting Open;Alpha Oz;0.011611305
+S10;Resting Open;Alpha Oz;0.02706676
+S11;Resting Open;Alpha Oz;0.041751919
+S13;Resting Open;Alpha Oz;0.013373024
+S14;Resting Open;Alpha Oz;0.028568202
+S16;Resting Open;Alpha Oz;0.012274149
+S18;Resting Open;Alpha Oz;0.027663142
+S19;Resting Open;Alpha Oz;0.022546162
+S20;Resting Open;Alpha Oz;0.02044601
+S22;Resting Open;Alpha Oz;0.01682737
+S24;Resting Open;Alpha Oz;0.01734064
+S25;Resting Open;Alpha Oz;0.007635101
+S26;Resting Open;Alpha Oz;0.01882222
+S27;Resting Open;Alpha Oz;0.008240571
+S28;Resting Open;Alpha Oz;0.01241755
+S29;Resting Open;Alpha Oz;0.011705094
+S30;Resting Open;Alpha Oz;0.012288726
+S31;Resting Open;Alpha Oz;0.008365093
+S32;Resting Open;Alpha Oz;0.013380168
+S33;Resting Open;Alpha Oz;0.0115111
+S34;Resting Open;Alpha Oz;0.035013882
+S35;Resting Open;Alpha Oz;0.004253592
+S2;Resting;Alpha Oz;0.045249664
+S3;Resting;Alpha Oz;0.021766945
+S5;Resting;Alpha Oz;0.041419063
+S6;Resting;Alpha Oz;0.041029662
+S7;Resting;Alpha Oz;0.024119723
+S10;Resting;Alpha Oz;0.045808467
+S11;Resting;Alpha Oz;0.043514736
+S13;Resting;Alpha Oz;0.016593889
+S14;Resting;Alpha Oz;0.04282063
+S16;Resting;Alpha Oz;0.0418476
+S18;Resting;Alpha Oz;0.024999392
+S19;Resting;Alpha Oz;0.035233567
+S20;Resting;Alpha Oz;0.057777956
+S22;Resting;Alpha Oz;0.037655159
+S24;Resting;Alpha Oz;0.048331298
+S25;Resting;Alpha Oz;0.010399667
+S26;Resting;Alpha Oz;0.021706148
+S27;Resting;Alpha Oz;0.013375021
+S28;Resting;Alpha Oz;0.016048869
+S29;Resting;Alpha Oz;0.01959371
+S30;Resting;Alpha Oz;0.017489003
+S31;Resting;Alpha Oz;0.017027337
+S32;Resting;Alpha Oz;0.018519325
+S33;Resting;Alpha Oz;0.015535281
+S34;Resting;Alpha Oz;0.031710936
+S35;Resting;Alpha Oz;0.007891102
+S2;Acuity;Alpha Oz;0.018495928
+S3;Acuity;Alpha Oz;0.014576523
+S5;Acuity;Alpha Oz;0.04521677
+S6;Acuity;Alpha Oz;0.012954155
+S7;Acuity;Alpha Oz;0.01110594
+S10;Acuity;Alpha Oz;0.01588866
+S11;Acuity;Alpha Oz;0.02391281
+S13;Acuity;Alpha Oz;0.016968659
+S14;Acuity;Alpha Oz;0.03106802
+S16;Acuity;Alpha Oz;0.018434506
+S18;Acuity;Alpha Oz;0.017876651
+S19;Acuity;Alpha Oz;0.023802801
+S20;Acuity;Alpha Oz;0.018894413
+S22;Acuity;Alpha Oz;0.017872176
+S24;Acuity;Alpha Oz;0.023258128
+S25;Acuity;Alpha Oz;0.008902196
+S26;Acuity;Alpha Oz;0.016111197
+S27;Acuity;Alpha Oz;0.003672246
+S28;Acuity;Alpha Oz;0.012650795
+S29;Acuity;Alpha Oz;0.015475233
+S30;Acuity;Alpha Oz;0.010465303
+S31;Acuity;Alpha Oz;0.010707495
+S32;Acuity;Alpha Oz;0.018293235
+S33;Acuity;Alpha Oz;0.008441871
+S34;Acuity;Alpha Oz;0.01795107
+S35;Acuity;Alpha Oz;0.006323689
+S2;Resting Open;Beta Oz;0.021902898
+S3;Resting Open;Beta Oz;0.025248743
+S5;Resting Open;Beta Oz;0.018645704
+S6;Resting Open;Beta Oz;0.017309674
+S7;Resting Open;Beta Oz;0.012192423
+S10;Resting Open;Beta Oz;0.014292371
+S11;Resting Open;Beta Oz;0.011634345
+S13;Resting Open;Beta Oz;0.036021641
+S14;Resting Open;Beta Oz;0.018174808
+S16;Resting Open;Beta Oz;0.015579024
+S18;Resting Open;Beta Oz;0.0266205
+S19;Resting Open;Beta Oz;0.014453461
+S20;Resting Open;Beta Oz;0.018196292
+S22;Resting Open;Beta Oz;0.056051181
+S24;Resting Open;Beta Oz;0.013556347
+S25;Resting Open;Beta Oz;0.019479775
+S26;Resting Open;Beta Oz;0.016339531
+S27;Resting Open;Beta Oz;0.007429715
+S28;Resting Open;Beta Oz;0.011195752
+S29;Resting Open;Beta Oz;0.008476761
+S30;Resting Open;Beta Oz;0.015032307
+S31;Resting Open;Beta Oz;0.012342842
+S32;Resting Open;Beta Oz;0.013256249
+S33;Resting Open;Beta Oz;0.016693167
+S34;Resting Open;Beta Oz;0.004271332
+S35;Resting Open;Beta Oz;0.010007943
+S2;Resting;Beta Oz;0.014242405
+S3;Resting;Beta Oz;0.032017288
+S5;Resting;Beta Oz;0.028535292
+S6;Resting;Beta Oz;0.013324857
+S7;Resting;Beta Oz;0.013910509
+S10;Resting;Beta Oz;0.006548072
+S11;Resting;Beta Oz;0.005305893
+S13;Resting;Beta Oz;0.034203908
+S14;Resting;Beta Oz;0.010563009
+S16;Resting;Beta Oz;0.013468487
+S18;Resting;Beta Oz;0.02268642
+S19;Resting;Beta Oz;0.008569738
+S20;Resting;Beta Oz;0.011042151
+S22;Resting;Beta Oz;0.051565742
+S24;Resting;Beta Oz;0.003624238
+S25;Resting;Beta Oz;0.023123028
+S26;Resting;Beta Oz;0.013847599
+S27;Resting;Beta Oz;0.004337897
+S28;Resting;Beta Oz;0.005440213
+S29;Resting;Beta Oz;0.00455784
+S30;Resting;Beta Oz;0.01498129
+S31;Resting;Beta Oz;0.021448255
+S32;Resting;Beta Oz;0.005213848
+S33;Resting;Beta Oz;0.00938941
+S34;Resting;Beta Oz;0.003809251
+S35;Resting;Beta Oz;0.01176731
+S2;Acuity;Beta Oz;0.014749185
+S3;Acuity;Beta Oz;0.017581396
+S5;Acuity;Beta Oz;0.022715109
+S6;Acuity;Beta Oz;0.018344487
+S7;Acuity;Beta Oz;0.012644491
+S10;Acuity;Beta Oz;0.01686481
+S11;Acuity;Beta Oz;0.024711666
+S13;Acuity;Beta Oz;0.029307491
+S14;Acuity;Beta Oz;0.018596143
+S16;Acuity;Beta Oz;0.017443215
+S18;Acuity;Beta Oz;0.037580577
+S19;Acuity;Beta Oz;0.017149543
+S20;Acuity;Beta Oz;0.018215364
+S22;Acuity;Beta Oz;0.026746497
+S24;Acuity;Beta Oz;0.014828251
+S25;Acuity;Beta Oz;0.015762636
+S26;Acuity;Beta Oz;0.014385779
+S27;Acuity;Beta Oz;0.004023358
+S28;Acuity;Beta Oz;0.010413573
+S29;Acuity;Beta Oz;0.016287005
+S30;Acuity;Beta Oz;0.015602717
+S31;Acuity;Beta Oz;0.011561128
+S32;Acuity;Beta Oz;0.012442865
+S33;Acuity;Beta Oz;0.015028693
+S34;Acuity;Beta Oz;0.007786121
+S35;Acuity;Beta Oz;0.008448943
+S2;Resting Open;Delta O1 O2;0.028035507
+S3;Resting Open;Delta O1 O2;0.049912199
+S5;Resting Open;Delta O1 O2;0.036110573
+S6;Resting Open;Delta O1 O2;0.013077064
+S7;Resting Open;Delta O1 O2;0.037113028
+S10;Resting Open;Delta O1 O2;0.026809141
+S11;Resting Open;Delta O1 O2;0.016406852
+S13;Resting Open;Delta O1 O2;0.039978074
+S14;Resting Open;Delta O1 O2;0.032384739
+S16;Resting Open;Delta O1 O2;0.045114569
+S18;Resting Open;Delta O1 O2;0.026762871
+S19;Resting Open;Delta O1 O2;0.0367268
+S20;Resting Open;Delta O1 O2;0.038952344
+S22;Resting Open;Delta O1 O2;0.038706165
+S24;Resting Open;Delta O1 O2;0.038380963
+S25;Resting Open;Delta O1 O2;0.02466865
+S26;Resting Open;Delta O1 O2;0.013474725
+S27;Resting Open;Delta O1 O2;0.013558419
+S28;Resting Open;Delta O1 O2;0.041104638
+S29;Resting Open;Delta O1 O2;0.018566931
+S30;Resting Open;Delta O1 O2;0.017012802
+S31;Resting Open;Delta O1 O2;0.05635808
+S32;Resting Open;Delta O1 O2;0.026958912
+S33;Resting Open;Delta O1 O2;0.016056715
+S34;Resting Open;Delta O1 O2;0.00538698
+S35;Resting Open;Delta O1 O2;0.047343729
+S2;Resting;Delta O1 O2;0.01349704
+S3;Resting;Delta O1 O2;0.021311493
+S5;Resting;Delta O1 O2;0.014885321
+S6;Resting;Delta O1 O2;0.009755708
+S7;Resting;Delta O1 O2;0.016327259
+S10;Resting;Delta O1 O2;0.009388465
+S11;Resting;Delta O1 O2;0.005414451
+S13;Resting;Delta O1 O2;0.03635415
+S14;Resting;Delta O1 O2;0.020674614
+S16;Resting;Delta O1 O2;0.014113667
+S18;Resting;Delta O1 O2;0.024028524
+S19;Resting;Delta O1 O2;0.015068869
+S20;Resting;Delta O1 O2;0.016281962
+S22;Resting;Delta O1 O2;0.018410112
+S24;Resting;Delta O1 O2;0.006641106
+S25;Resting;Delta O1 O2;0.011542341
+S26;Resting;Delta O1 O2;0.008337747
+S27;Resting;Delta O1 O2;0.004517662
+S28;Resting;Delta O1 O2;0.010751468
+S29;Resting;Delta O1 O2;0.004567849
+S30;Resting;Delta O1 O2;0.022022845
+S31;Resting;Delta O1 O2;0.019564106
+S32;Resting;Delta O1 O2;0.007434282
+S33;Resting;Delta O1 O2;0.006641069
+S34;Resting;Delta O1 O2;0.004458049
+S35;Resting;Delta O1 O2;0.036382505
+S2;Acuity;Delta O1 O2;0.037849496
+S3;Acuity;Delta O1 O2;0.058230674
+S5;Acuity;Delta O1 O2;0.045870242
+S6;Acuity;Delta O1 O2;0.031740316
+S7;Acuity;Delta O1 O2;0.031620338
+S10;Acuity;Delta O1 O2;0.020642609
+S11;Acuity;Delta O1 O2;0.031678542
+S13;Acuity;Delta O1 O2;0.051075124
+S14;Acuity;Delta O1 O2;0.047244879
+S16;Acuity;Delta O1 O2;0.030364603
+S18;Acuity;Delta O1 O2;0.017380576
+S19;Acuity;Delta O1 O2;0.03146323
+S20;Acuity;Delta O1 O2;0.049927597
+S22;Acuity;Delta O1 O2;0.043715963
+S24;Acuity;Delta O1 O2;0.02758041
+S25;Acuity;Delta O1 O2;0.025109946
+S26;Acuity;Delta O1 O2;0.01782529
+S27;Acuity;Delta O1 O2;0.010003863
+S28;Acuity;Delta O1 O2;0.050553972
+S29;Acuity;Delta O1 O2;0.046808476
+S30;Acuity;Delta O1 O2;0.018862846
+S31;Acuity;Delta O1 O2;0.029876793
+S32;Acuity;Delta O1 O2;0.024193719
+S33;Acuity;Delta O1 O2;0.026399731
+S34;Acuity;Delta O1 O2;0.01987768
+S35;Acuity;Delta O1 O2;0.040155441
+S2;Resting Open;Theta O1 O2;0.038924788
+S3;Resting Open;Theta O1 O2;0.042786639
+S5;Resting Open;Theta O1 O2;0.02170198
+S6;Resting Open;Theta O1 O2;0.033343083
+S7;Resting Open;Theta O1 O2;0.051486375
+S10;Resting Open;Theta O1 O2;0.033041994
+S11;Resting Open;Theta O1 O2;0.02530723
+S13;Resting Open;Theta O1 O2;0.044048606
+S14;Resting Open;Theta O1 O2;0.036355505
+S16;Resting Open;Theta O1 O2;0.055238743
+S18;Resting Open;Theta O1 O2;0.051733375
+S19;Resting Open;Theta O1 O2;0.048652912
+S20;Resting Open;Theta O1 O2;0.043013918
+S22;Resting Open;Theta O1 O2;0.044281568
+S24;Resting Open;Theta O1 O2;0.055388243
+S25;Resting Open;Theta O1 O2;0.031478421
+S26;Resting Open;Theta O1 O2;0.05555348
+S27;Resting Open;Theta O1 O2;0.070355707
+S28;Resting Open;Theta O1 O2;0.031663843
+S29;Resting Open;Theta O1 O2;0.021744481
+S30;Resting Open;Theta O1 O2;0.034985659
+S31;Resting Open;Theta O1 O2;0.042749518
+S32;Resting Open;Theta O1 O2;0.033175261
+S33;Resting Open;Theta O1 O2;0.020348701
+S34;Resting Open;Theta O1 O2;0.01112078
+S35;Resting Open;Theta O1 O2;0.041607499
+S2;Resting;Theta O1 O2;0.025654729
+S3;Resting;Theta O1 O2;0.026790373
+S5;Resting;Theta O1 O2;0.017417547
+S6;Resting;Theta O1 O2;0.022585806
+S7;Resting;Theta O1 O2;0.039539245
+S10;Resting;Theta O1 O2;0.014561255
+S11;Resting;Theta O1 O2;0.006957364
+S13;Resting;Theta O1 O2;0.036660301
+S14;Resting;Theta O1 O2;0.020964498
+S16;Resting;Theta O1 O2;0.025359846
+S18;Resting;Theta O1 O2;0.043665313
+S19;Resting;Theta O1 O2;0.038049652
+S20;Resting;Theta O1 O2;0.013115622
+S22;Resting;Theta O1 O2;0.022830148
+S24;Resting;Theta O1 O2;0.005769961
+S25;Resting;Theta O1 O2;0.018404987
+S26;Resting;Theta O1 O2;0.036652237
+S27;Resting;Theta O1 O2;0.012706779
+S28;Resting;Theta O1 O2;0.014909264
+S29;Resting;Theta O1 O2;0.008333435
+S30;Resting;Theta O1 O2;0.032451675
+S31;Resting;Theta O1 O2;0.024504712
+S32;Resting;Theta O1 O2;0.017440235
+S33;Resting;Theta O1 O2;0.016109767
+S34;Resting;Theta O1 O2;0.008966884
+S35;Resting;Theta O1 O2;0.048765213
+S2;Acuity;Theta O1 O2;0.076464725
+S3;Acuity;Theta O1 O2;0.055043947
+S5;Acuity;Theta O1 O2;0.06243305
+S6;Acuity;Theta O1 O2;0.055669161
+S7;Acuity;Theta O1 O2;0.081791153
+S10;Acuity;Theta O1 O2;0.055573773
+S11;Acuity;Theta O1 O2;0.059428944
+S13;Acuity;Theta O1 O2;0.077264674
+S14;Acuity;Theta O1 O2;0.034552792
+S16;Acuity;Theta O1 O2;0.056798539
+S18;Acuity;Theta O1 O2;0.057488696
+S19;Acuity;Theta O1 O2;0.09943314
+S20;Acuity;Theta O1 O2;0.087563014
+S22;Acuity;Theta O1 O2;0.093711641
+S24;Acuity;Theta O1 O2;0.051356584
+S25;Acuity;Theta O1 O2;0.051042089
+S26;Acuity;Theta O1 O2;0.080718858
+S27;Acuity;Theta O1 O2;0.097217638
+S28;Acuity;Theta O1 O2;0.064342278
+S29;Acuity;Theta O1 O2;0.066643153
+S30;Acuity;Theta O1 O2;0.058272151
+S31;Acuity;Theta O1 O2;0.069460192
+S32;Acuity;Theta O1 O2;0.055685431
+S33;Acuity;Theta O1 O2;0.049194917
+S34;Acuity;Theta O1 O2;0.042987243
+S35;Acuity;Theta O1 O2;0.066137696
+S2;Resting Open;Alpha O1 O2;0.065142421
+S3;Resting Open;Alpha O1 O2;0.03440572
+S5;Resting Open;Alpha O1 O2;0.07628784
+S6;Resting Open;Alpha O1 O2;0.093823991
+S7;Resting Open;Alpha O1 O2;0.037244507
+S10;Resting Open;Alpha O1 O2;0.075968636
+S11;Resting Open;Alpha O1 O2;0.119942787
+S13;Resting Open;Alpha O1 O2;0.030431731
+S14;Resting Open;Alpha O1 O2;0.06183089
+S16;Resting Open;Alpha O1 O2;0.037742083
+S18;Resting Open;Alpha O1 O2;0.057881164
+S19;Resting Open;Alpha O1 O2;0.059296418
+S20;Resting Open;Alpha O1 O2;0.05838002
+S22;Resting Open;Alpha O1 O2;0.047904427
+S24;Resting Open;Alpha O1 O2;0.040304972
+S25;Resting Open;Alpha O1 O2;0.027307169
+S26;Resting Open;Alpha O1 O2;0.074060568
+S27;Resting Open;Alpha O1 O2;0.038273853
+S28;Resting Open;Alpha O1 O2;0.051658492
+S29;Resting Open;Alpha O1 O2;0.092624784
+S30;Resting Open;Alpha O1 O2;0.058712921
+S31;Resting Open;Alpha O1 O2;0.030305154
+S32;Resting Open;Alpha O1 O2;0.055867111
+S33;Resting Open;Alpha O1 O2;0.056511501
+S34;Resting Open;Alpha O1 O2;0.151633286
+S35;Resting Open;Alpha O1 O2;0.016128152
+S2;Resting;Alpha O1 O2;0.115549109
+S3;Resting;Alpha O1 O2;0.056326602
+S5;Resting;Alpha O1 O2;0.105217585
+S6;Resting;Alpha O1 O2;0.118601195
+S7;Resting;Alpha O1 O2;0.066094643
+S10;Resting;Alpha O1 O2;0.137557693
+S11;Resting;Alpha O1 O2;0.144872639
+S13;Resting;Alpha O1 O2;0.043163057
+S14;Resting;Alpha O1 O2;0.110345196
+S16;Resting;Alpha O1 O2;0.11554525
+S18;Resting;Alpha O1 O2;0.062449408
+S19;Resting;Alpha O1 O2;0.107149662
+S20;Resting;Alpha O1 O2;0.152416819
+S22;Resting;Alpha O1 O2;0.103871419
+S24;Resting;Alpha O1 O2;0.157020037
+S25;Resting;Alpha O1 O2;0.039573403
+S26;Resting;Alpha O1 O2;0.10062674
+S27;Resting;Alpha O1 O2;0.121144136
+S28;Resting;Alpha O1 O2;0.099270832
+S29;Resting;Alpha O1 O2;0.138386699
+S30;Resting;Alpha O1 O2;0.065560196
+S31;Resting;Alpha O1 O2;0.080770403
+S32;Resting;Alpha O1 O2;0.111239388
+S33;Resting;Alpha O1 O2;0.094918643
+S34;Resting;Alpha O1 O2;0.150767842
+S35;Resting;Alpha O1 O2;0.024357014
+S2;Acuity;Alpha O1 O2;0.045716059
+S3;Acuity;Alpha O1 O2;0.039481777
+S5;Acuity;Alpha O1 O2;0.087751335
+S6;Acuity;Alpha O1 O2;0.038925423
+S7;Acuity;Alpha O1 O2;0.03745795
+S10;Acuity;Alpha O1 O2;0.042712049
+S11;Acuity;Alpha O1 O2;0.050242588
+S13;Acuity;Alpha O1 O2;0.038481498
+S14;Acuity;Alpha O1 O2;0.059020104
+S16;Acuity;Alpha O1 O2;0.052109899
+S18;Acuity;Alpha O1 O2;0.039548669
+S19;Acuity;Alpha O1 O2;0.058343202
+S20;Acuity;Alpha O1 O2;0.047911763
+S22;Acuity;Alpha O1 O2;0.041137601
+S24;Acuity;Alpha O1 O2;0.053855316
+S25;Acuity;Alpha O1 O2;0.026398046
+S26;Acuity;Alpha O1 O2;0.066922908
+S27;Acuity;Alpha O1 O2;0.020037493
+S28;Acuity;Alpha O1 O2;0.035800262
+S29;Acuity;Alpha O1 O2;0.052485456
+S30;Acuity;Alpha O1 O2;0.058015078
+S31;Acuity;Alpha O1 O2;0.03200621
+S32;Acuity;Alpha O1 O2;0.06604537
+S33;Acuity;Alpha O1 O2;0.039222225
+S34;Acuity;Alpha O1 O2;0.070950864
+S35;Acuity;Alpha O1 O2;0.020061329
+S2;Resting Open;Beta O1 O2;0.058667018
+S3;Resting Open;Beta O1 O2;0.079416145
+S5;Resting Open;Beta O1 O2;0.048006565
+S6;Resting Open;Beta O1 O2;0.064483831
+S7;Resting Open;Beta O1 O2;0.054774713
+S10;Resting Open;Beta O1 O2;0.055669499
+S11;Resting Open;Beta O1 O2;0.032570893
+S13;Resting Open;Beta O1 O2;0.08468028
+S14;Resting Open;Beta O1 O2;0.054436799
+S16;Resting Open;Beta O1 O2;0.065697937
+S18;Resting Open;Beta O1 O2;0.063907279
+S19;Resting Open;Beta O1 O2;0.035790207
+S20;Resting Open;Beta O1 O2;0.063449351
+S22;Resting Open;Beta O1 O2;0.09083721
+S24;Resting Open;Beta O1 O2;0.037784434
+S25;Resting Open;Beta O1 O2;0.058358463
+S26;Resting Open;Beta O1 O2;0.043083793
+S27;Resting Open;Beta O1 O2;0.020514979
+S28;Resting Open;Beta O1 O2;0.037386216
+S29;Resting Open;Beta O1 O2;0.030085384
+S30;Resting Open;Beta O1 O2;0.07375603
+S31;Resting Open;Beta O1 O2;0.03866993
+S32;Resting Open;Beta O1 O2;0.047678831
+S33;Resting Open;Beta O1 O2;0.069971951
+S34;Resting Open;Beta O1 O2;0.015460421
+S35;Resting Open;Beta O1 O2;0.033811318
+S2;Resting;Beta O1 O2;0.039144741
+S3;Resting;Beta O1 O2;0.097430192
+S5;Resting;Beta O1 O2;0.075863252
+S6;Resting;Beta O1 O2;0.051578943
+S7;Resting;Beta O1 O2;0.056327385
+S10;Resting;Beta O1 O2;0.026312697
+S11;Resting;Beta O1 O2;0.013680267
+S13;Resting;Beta O1 O2;0.090607721
+S14;Resting;Beta O1 O2;0.033387273
+S16;Resting;Beta O1 O2;0.045137433
+S18;Resting;Beta O1 O2;0.066253068
+S19;Resting;Beta O1 O2;0.024269409
+S20;Resting;Beta O1 O2;0.02978796
+S22;Resting;Beta O1 O2;0.075580466
+S24;Resting;Beta O1 O2;0.010422993
+S25;Resting;Beta O1 O2;0.084794539
+S26;Resting;Beta O1 O2;0.03731837
+S27;Resting;Beta O1 O2;0.011751218
+S28;Resting;Beta O1 O2;0.019287126
+S29;Resting;Beta O1 O2;0.016072087
+S30;Resting;Beta O1 O2;0.060024876
+S31;Resting;Beta O1 O2;0.067567912
+S32;Resting;Beta O1 O2;0.020194898
+S33;Resting;Beta O1 O2;0.047904402
+S34;Resting;Beta O1 O2;0.013430535
+S35;Resting;Beta O1 O2;0.040777601
+S2;Acuity;Beta O1 O2;0.043887424
+S3;Acuity;Beta O1 O2;0.057116817
+S5;Acuity;Beta O1 O2;0.054372446
+S6;Acuity;Beta O1 O2;0.062987137
+S7;Acuity;Beta O1 O2;0.053588528
+S10;Acuity;Beta O1 O2;0.062776542
+S11;Acuity;Beta O1 O2;0.06500518
+S13;Acuity;Beta O1 O2;0.062520188
+S14;Acuity;Beta O1 O2;0.054734857
+S16;Acuity;Beta O1 O2;0.070392736
+S18;Acuity;Beta O1 O2;0.070133415
+S19;Acuity;Beta O1 O2;0.044189798
+S20;Acuity;Beta O1 O2;0.053182276
+S22;Acuity;Beta O1 O2;0.060121638
+S24;Acuity;Beta O1 O2;0.043518535
+S25;Acuity;Beta O1 O2;0.059912393
+S26;Acuity;Beta O1 O2;0.036273488
+S27;Acuity;Beta O1 O2;0.01279672
+S28;Acuity;Beta O1 O2;0.029900343
+S29;Acuity;Beta O1 O2;0.046468642
+S30;Acuity;Beta O1 O2;0.068417897
+S31;Acuity;Beta O1 O2;0.035182254
+S32;Acuity;Beta O1 O2;0.04358175
+S33;Acuity;Beta O1 O2;0.05212593
+S34;Acuity;Beta O1 O2;0.02402159
+S35;Acuity;Beta O1 O2;0.02519353
+S2;Resting Open;Delta PO;0.101487079
+S3;Resting Open;Delta PO;0.127635255
+S5;Resting Open;Delta PO;0.250503084
+S6;Resting Open;Delta PO;0.058550339
+S7;Resting Open;Delta PO;0.17236655
+S10;Resting Open;Delta PO;0.107512462
+S11;Resting Open;Delta PO;0.05340667
+S13;Resting Open;Delta PO;0.145259757
+S14;Resting Open;Delta PO;0.095343827
+S16;Resting Open;Delta PO;0.144565228
+S18;Resting Open;Delta PO;0.096962661
+S19;Resting Open;Delta PO;0.142054377
+S20;Resting Open;Delta PO;0.108624752
+S22;Resting Open;Delta PO;0.120708673
+S24;Resting Open;Delta PO;0.197045766
+S25;Resting Open;Delta PO;0.195206738
+S26;Resting Open;Delta PO;0.075450013
+S27;Resting Open;Delta PO;0.060000049
+S28;Resting Open;Delta PO;0.195122746
+S29;Resting Open;Delta PO;0.151766727
+S30;Resting Open;Delta PO;0.074820174
+S31;Resting Open;Delta PO;0.245207117
+S32;Resting Open;Delta PO;0.159713551
+S33;Resting Open;Delta PO;0.111273894
+S34;Resting Open;Delta PO;0.032604764
+S35;Resting Open;Delta PO;0.33382592
+S2;Resting;Delta PO;0.051973149
+S3;Resting;Delta PO;0.083247387
+S5;Resting;Delta PO;0.071565072
+S6;Resting;Delta PO;0.0375493
+S7;Resting;Delta PO;0.090973603
+S10;Resting;Delta PO;0.049007967
+S11;Resting;Delta PO;0.017799839
+S13;Resting;Delta PO;0.129797089
+S14;Resting;Delta PO;0.073716623
+S16;Resting;Delta PO;0.041614851
+S18;Resting;Delta PO;0.09226702
+S19;Resting;Delta PO;0.052759264
+S20;Resting;Delta PO;0.036046412
+S22;Resting;Delta PO;0.073910828
+S24;Resting;Delta PO;0.025526891
+S25;Resting;Delta PO;0.078489597
+S26;Resting;Delta PO;0.031268173
+S27;Resting;Delta PO;0.021012899
+S28;Resting;Delta PO;0.042385075
+S29;Resting;Delta PO;0.017732211
+S30;Resting;Delta PO;0.068081482
+S31;Resting;Delta PO;0.160070303
+S32;Resting;Delta PO;0.037636866
+S33;Resting;Delta PO;0.02860608
+S34;Resting;Delta PO;0.021553316
+S35;Resting;Delta PO;0.243524619
+S2;Acuity;Delta PO;0.115742108
+S3;Acuity;Delta PO;0.164257359
+S5;Acuity;Delta PO;0.11708393
+S6;Acuity;Delta PO;0.121791103
+S7;Acuity;Delta PO;0.138147205
+S10;Acuity;Delta PO;0.123731645
+S11;Acuity;Delta PO;0.134680452
+S13;Acuity;Delta PO;0.150590671
+S14;Acuity;Delta PO;0.137349908
+S16;Acuity;Delta PO;0.109157897
+S18;Acuity;Delta PO;0.075485076
+S19;Acuity;Delta PO;0.077949651
+S20;Acuity;Delta PO;0.14770239
+S22;Acuity;Delta PO;0.124371692
+S24;Acuity;Delta PO;0.128456918
+S25;Acuity;Delta PO;0.145565161
+S26;Acuity;Delta PO;0.067722344
+S27;Acuity;Delta PO;0.046985739
+S28;Acuity;Delta PO;0.205607267
+S29;Acuity;Delta PO;0.186584473
+S30;Acuity;Delta PO;0.045500966
+S31;Acuity;Delta PO;0.183659742
+S32;Acuity;Delta PO;0.115594625
+S33;Acuity;Delta PO;0.131785179
+S34;Acuity;Delta PO;0.120792151
+S35;Acuity;Delta PO;0.3304436
+S2;Resting Open;Theta PO;0.11600597
+S3;Resting Open;Theta PO;0.130309221
+S5;Resting Open;Theta PO;0.091747021
+S6;Resting Open;Theta PO;0.109769505
+S7;Resting Open;Theta PO;0.189368194
+S10;Resting Open;Theta PO;0.12045892
+S11;Resting Open;Theta PO;0.075910771
+S13;Resting Open;Theta PO;0.178178322
+S14;Resting Open;Theta PO;0.146948073
+S16;Resting Open;Theta PO;0.175218266
+S18;Resting Open;Theta PO;0.159681004
+S19;Resting Open;Theta PO;0.189184889
+S20;Resting Open;Theta PO;0.110507594
+S22;Resting Open;Theta PO;0.135114346
+S24;Resting Open;Theta PO;0.239699017
+S25;Resting Open;Theta PO;0.204305666
+S26;Resting Open;Theta PO;0.227186682
+S27;Resting Open;Theta PO;0.465761461
+S28;Resting Open;Theta PO;0.136745361
+S29;Resting Open;Theta PO;0.115805016
+S30;Resting Open;Theta PO;0.123548222
+S31;Resting Open;Theta PO;0.259920638
+S32;Resting Open;Theta PO;0.171413413
+S33;Resting Open;Theta PO;0.121684138
+S34;Resting Open;Theta PO;0.063604838
+S35;Resting Open;Theta PO;0.249572107
+S2;Resting;Theta PO;0.079073602
+S3;Resting;Theta PO;0.088513093
+S5;Resting;Theta PO;0.074090259
+S6;Resting;Theta PO;0.079766671
+S7;Resting;Theta PO;0.136777704
+S10;Resting;Theta PO;0.06036522
+S11;Resting;Theta PO;0.026134156
+S13;Resting;Theta PO;0.143472917
+S14;Resting;Theta PO;0.073449957
+S16;Resting;Theta PO;0.084182865
+S18;Resting;Theta PO;0.151421047
+S19;Resting;Theta PO;0.156326025
+S20;Resting;Theta PO;0.036190462
+S22;Resting;Theta PO;0.063366393
+S24;Resting;Theta PO;0.025813075
+S25;Resting;Theta PO;0.108491687
+S26;Resting;Theta PO;0.138158916
+S27;Resting;Theta PO;0.06728356
+S28;Resting;Theta PO;0.06571928
+S29;Resting;Theta PO;0.040697728
+S30;Resting;Theta PO;0.154127923
+S31;Resting;Theta PO;0.133350771
+S32;Resting;Theta PO;0.097957138
+S33;Resting;Theta PO;0.069301526
+S34;Resting;Theta PO;0.044143077
+S35;Resting;Theta PO;0.249246748
+S2;Acuity;Theta PO;0.229256049
+S3;Acuity;Theta PO;0.17826618
+S5;Acuity;Theta PO;0.124639861
+S6;Acuity;Theta PO;0.175715069
+S7;Acuity;Theta PO;0.245330376
+S10;Acuity;Theta PO;0.173199669
+S11;Acuity;Theta PO;0.186845803
+S13;Acuity;Theta PO;0.190474282
+S14;Acuity;Theta PO;0.128310225
+S16;Acuity;Theta PO;0.171205594
+S18;Acuity;Theta PO;0.226042682
+S19;Acuity;Theta PO;0.224183057
+S20;Acuity;Theta PO;0.203661763
+S22;Acuity;Theta PO;0.219421397
+S24;Acuity;Theta PO;0.247524465
+S25;Acuity;Theta PO;0.247713992
+S26;Acuity;Theta PO;0.279115589
+S27;Acuity;Theta PO;0.590818929
+S28;Acuity;Theta PO;0.27265147
+S29;Acuity;Theta PO;0.206398464
+S30;Acuity;Theta PO;0.17897683
+S31;Acuity;Theta PO;0.324658505
+S32;Acuity;Theta PO;0.207748393
+S33;Acuity;Theta PO;0.219496471
+S34;Acuity;Theta PO;0.192221582
+S35;Acuity;Theta PO;0.308725936
+S2;Resting Open;Alpha PO;0.270781799
+S3;Resting Open;Alpha PO;0.139352681
+S5;Resting Open;Alpha PO;0.252182516
+S6;Resting Open;Alpha PO;0.293345665
+S7;Resting Open;Alpha PO;0.146954253
+S10;Resting Open;Alpha PO;0.256713839
+S11;Resting Open;Alpha PO;0.487765902
+S13;Resting Open;Alpha PO;0.106597841
+S14;Resting Open;Alpha PO;0.21643143
+S16;Resting Open;Alpha PO;0.1267454
+S18;Resting Open;Alpha PO;0.194415564
+S19;Resting Open;Alpha PO;0.265988007
+S20;Resting Open;Alpha PO;0.205193545
+S22;Resting Open;Alpha PO;0.16817683
+S24;Resting Open;Alpha PO;0.162976775
+S25;Resting Open;Alpha PO;0.127416591
+S26;Resting Open;Alpha PO;0.294726531
+S27;Resting Open;Alpha PO;0.209673313
+S28;Resting Open;Alpha PO;0.249925676
+S29;Resting Open;Alpha PO;0.423521672
+S30;Resting Open;Alpha PO;0.292043627
+S31;Resting Open;Alpha PO;0.132078082
+S32;Resting Open;Alpha PO;0.25551538
+S33;Resting Open;Alpha PO;0.234556616
+S34;Resting Open;Alpha PO;0.611108019
+S35;Resting Open;Alpha PO;0.080457105
+S2;Resting;Alpha PO;0.428537182
+S3;Resting;Alpha PO;0.207671436
+S5;Resting;Alpha PO;0.326847015
+S6;Resting;Alpha PO;0.412846701
+S7;Resting;Alpha PO;0.225661044
+S10;Resting;Alpha PO;0.524517022
+S11;Resting;Alpha PO;0.67584923
+S13;Resting;Alpha PO;0.14184357
+S14;Resting;Alpha PO;0.432301986
+S16;Resting;Alpha PO;0.429045487
+S18;Resting;Alpha PO;0.232814745
+S19;Resting;Alpha PO;0.438722646
+S20;Resting;Alpha PO;0.531302351
+S22;Resting;Alpha PO;0.338419177
+S24;Resting;Alpha PO;0.661172538
+S25;Resting;Alpha PO;0.174206967
+S26;Resting;Alpha PO;0.46309747
+S27;Resting;Alpha PO;0.689072757
+S28;Resting;Alpha PO;0.608979694
+S29;Resting;Alpha PO;0.684758416
+S30;Resting;Alpha PO;0.306660109
+S31;Resting;Alpha PO;0.276821098
+S32;Resting;Alpha PO;0.587118574
+S33;Resting;Alpha PO;0.478401849
+S34;Resting;Alpha PO;0.662961266
+S35;Resting;Alpha PO;0.124157108
+S2;Acuity;Alpha PO;0.17587474
+S3;Acuity;Alpha PO;0.136583616
+S5;Acuity;Alpha PO;0.23177778
+S6;Acuity;Alpha PO;0.164990555
+S7;Acuity;Alpha PO;0.125831992
+S10;Acuity;Alpha PO;0.168373627
+S11;Acuity;Alpha PO;0.171497871
+S13;Acuity;Alpha PO;0.110161988
+S14;Acuity;Alpha PO;0.190472538
+S16;Acuity;Alpha PO;0.175944619
+S18;Acuity;Alpha PO;0.185854895
+S19;Acuity;Alpha PO;0.200687024
+S20;Acuity;Alpha PO;0.142924044
+S22;Acuity;Alpha PO;0.10858149
+S24;Acuity;Alpha PO;0.205063761
+S25;Acuity;Alpha PO;0.113334786
+S26;Acuity;Alpha PO;0.271307597
+S27;Acuity;Alpha PO;0.131695958
+S28;Acuity;Alpha PO;0.14411997
+S29;Acuity;Alpha PO;0.16815866
+S30;Acuity;Alpha PO;0.239273513
+S31;Acuity;Alpha PO;0.130779317
+S32;Acuity;Alpha PO;0.255114318
+S33;Acuity;Alpha PO;0.182773102
+S34;Acuity;Alpha PO;0.380794836
+S35;Acuity;Alpha PO;0.061957026
+S2;Resting Open;Beta PO;0.212750366
+S3;Resting Open;Beta PO;0.293113373
+S5;Resting Open;Beta PO;0.155787744
+S6;Resting Open;Beta PO;0.25720008
+S7;Resting Open;Beta PO;0.233397235
+S10;Resting Open;Beta PO;0.236403755
+S11;Resting Open;Beta PO;0.109046583
+S13;Resting Open;Beta PO;0.269494489
+S14;Resting Open;Beta PO;0.255719192
+S16;Resting Open;Beta PO;0.241184175
+S18;Resting Open;Beta PO;0.232405941
+S19;Resting Open;Beta PO;0.140344543
+S20;Resting Open;Beta PO;0.243739977
+S22;Resting Open;Beta PO;0.21731391
+S24;Resting Open;Beta PO;0.15466507
+S25;Resting Open;Beta PO;0.278467482
+S26;Resting Open;Beta PO;0.148589231
+S27;Resting Open;Beta PO;0.08712239
+S28;Resting Open;Beta PO;0.182149013
+S29;Resting Open;Beta PO;0.11091132
+S30;Resting Open;Beta PO;0.28123366
+S31;Resting Open;Beta PO;0.1448539
+S32;Resting Open;Beta PO;0.203155731
+S33;Resting Open;Beta PO;0.323861404
+S34;Resting Open;Beta PO;0.063813504
+S35;Resting Open;Beta PO;0.157731729
+S2;Resting;Beta PO;0.1545591
+S3;Resting;Beta PO;0.342243345
+S5;Resting;Beta PO;0.23109961
+S6;Resting;Beta PO;0.193513285
+S7;Resting;Beta PO;0.29095922
+S10;Resting;Beta PO;0.112696049
+S11;Resting;Beta PO;0.0524131
+S13;Resting;Beta PO;0.285338534
+S14;Resting;Beta PO;0.159214937
+S16;Resting;Beta PO;0.160864286
+S18;Resting;Beta PO;0.238588597
+S19;Resting;Beta PO;0.09982366
+S20;Resting;Beta PO;0.098122914
+S22;Resting;Beta PO;0.173872209
+S24;Resting;Beta PO;0.045843239
+S25;Resting;Beta PO;0.436231537
+S26;Resting;Beta PO;0.129130326
+S27;Resting;Beta PO;0.049733446
+S28;Resting;Beta PO;0.101201101
+S29;Resting;Beta PO;0.061104445
+S30;Resting;Beta PO;0.243977261
+S31;Resting;Beta PO;0.178160101
+S32;Resting;Beta PO;0.089047656
+S33;Resting;Beta PO;0.223108279
+S34;Resting;Beta PO;0.052359724
+S35;Resting;Beta PO;0.186168273
+S2;Acuity;Beta PO;0.187066693
+S3;Acuity;Beta PO;0.21231741
+S5;Acuity;Beta PO;0.163799101
+S6;Acuity;Beta PO;0.275864036
+S7;Acuity;Beta PO;0.208758112
+S10;Acuity;Beta PO;0.262258141
+S11;Acuity;Beta PO;0.198902635
+S13;Acuity;Beta PO;0.19996673
+S14;Acuity;Beta PO;0.251175401
+S16;Acuity;Beta PO;0.250238863
+S18;Acuity;Beta PO;0.225858177
+S19;Acuity;Beta PO;0.151868875
+S20;Acuity;Beta PO;0.16789074
+S22;Acuity;Beta PO;0.178442118
+S24;Acuity;Beta PO;0.166894605
+S25;Acuity;Beta PO;0.273032316
+S26;Acuity;Beta PO;0.113608085
+S27;Acuity;Beta PO;0.061897087
+S28;Acuity;Beta PO;0.127851829
+S29;Acuity;Beta PO;0.148412701
+S30;Acuity;Beta PO;0.286745734
+S31;Acuity;Beta PO;0.13632073
+S32;Acuity;Beta PO;0.174466801
+S33;Acuity;Beta PO;0.245928369
+S34;Acuity;Beta PO;0.103079175
+S35;Acuity;Beta PO;0.10510683
